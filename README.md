@@ -3,8 +3,8 @@
 
 <p align="center" >
   <samp>
-   Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Invest de Ciências e Tecnologia de Cuiabá/MT. Tenho iniciado a programar nas linguagens de Java e Javascript, por enquanto pretendo focar no desenvolvimento web. 
-</samp>
+No Momento eu estou Cursando 3° Semestre do Curso de Ciência da Compultação, E estou em Busco do Meu primeiro Emprego na Área de TI.
+  </samp>
 <br/><br/>
 
 <p align="center">
