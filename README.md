@@ -8,14 +8,14 @@ No momento eu estou Cursando 3° Semestre do Curso de Ciência da Compultação,
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-n%C3%A1rio-de-souza-801853232">
+  <a href="https://www.linkedin.com/in/jhonatanLopes">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
-  <a href="mailto:guilhermenariodesouza@gmail.com">
+  <a href="mailto:Jhonatanlopes.kairos@hotmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
 </p>
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanLopes&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLP&theme=tokyonight&show_icons=true" />
 </p>
