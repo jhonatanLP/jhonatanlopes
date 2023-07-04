@@ -3,7 +3,7 @@
 
 <p align="center" >
   <samp>
-No Momento eu estou Cursando 3° Semestre do Curso de Ciência da Compultação, E estou em Busco do Meu primeiro Emprego na Área de TI.
+No momento eu estou Cursando 3° Semestre do Curso de Ciência da Compultação, E estou em Busca do Meu primeiro Emprego na Área de TI.
   </samp>
 <br/><br/>
 
