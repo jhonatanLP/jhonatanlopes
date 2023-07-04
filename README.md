@@ -11,7 +11,7 @@ No momento eu estou Cursando 3° Semestre do Curso de Ciência da Compultação,
   <a href="https://www.linkedin.com/in/jhonatanLopes">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
-  <a href="mailto:Jhonatanlopes.kairos@hotmail.com">
+  <a href="mailto:Jhowmoveisplanejados@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
 </p>
